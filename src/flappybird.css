@@ -1,9 +1,10 @@
 body {
     font-family:'Courier New', Courier, monospace;
     text-align: center;
+   background-color:#000f91 ;
 }
 
-#board {
+/* #board {
     /* background-color: skyblue; */
     background-image: url("./latar.jpeg");
-}
+} */
