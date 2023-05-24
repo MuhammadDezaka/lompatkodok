@@ -109,7 +109,7 @@ function update() {
     context.fillText(score, 10, 45);
 
     if (gameOver) {
-        context.fillText("Coba lagi", 103, 90);
+        context.fillText("Tekan untuk Coba lagi", 103, 90);
        
     }
 }
